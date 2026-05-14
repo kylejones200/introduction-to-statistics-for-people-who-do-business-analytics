@@ -1,7 +1,7 @@
 # Introduction to Statistics for people who do Business Analytics
 
-**Published:** 2024-04-20
-**Medium:** [https://medium.com/@kyle-t-jones/introduction-to-statistics-for-people-who-do-business-analytics-26878760a14a](https://medium.com/@kyle-t-jones/introduction-to-statistics-for-people-who-do-business-analytics-26878760a14a)
+Published: 2024-04-20
+Medium: [https://medium.com/@kyle-t-jones/introduction-to-statistics-for-people-who-do-business-analytics-26878760a14a](https://medium.com/@kyle-t-jones/introduction-to-statistics-for-people-who-do-business-analytics-26878760a14a)
 
 ## About
 

@@ -11,14 +11,7 @@ By understanding how to build these values from scratch, we will have a better u
 
 Statistics is the science of collecting, organizing, analyzing, and interpreting data in order to make decisions.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
